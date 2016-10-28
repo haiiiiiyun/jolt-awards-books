@@ -1,20 +1,28 @@
+## 2014
+-----
+
+### Jolt Award: 
++ [Python in Practice](#) - Mark Summerfield
++ [Lean UX](#) - Jeff Gothelf, Josh Seiden 
+
+
 ## 2013
 -----
-### Productivity
+
+### Productivity Award
 + [Dependency Injection in .NET](#) - Mark Seemann 
 + [Taming Text](#) - Grant S. Ingersoll, Thomas S. Morton, Andrew L. Farris 
+
 
 ### Finalist
 + [Team Geek](#) - Brian Fitzpatrick, Ben Collins-Sussman 
 + [NoSQL Distilled](#) - Pramod Saldage, Martin Fowler 
 
-### Jolt Award: 
-+ [Lean UX by Jeff Gothelf](#) - Josh Seiden 
 
 ## 2012
 -----
 
-### Productivity
+### Productivity Award
 + [HTML5 Developer's Cookbook](#) - Chuck Hudson, Tom Leadbetter 
 + [iOS Programming: The Big Nerd Ranch Guide, Third Edition](#) - Joe Conway and Aaron Hillegass 
 
@@ -30,11 +38,11 @@
 ## 2011
 -----
 
-### Productivity
+### Productivity Award
 + [Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages](http://www.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X) - Bruce A. Tate
 + [Mining the Social Web: Analyzing Data from Facebook, Twitter, LinkedIn, and Other Social Media Sites](http://www.amazon.com/Mining-Social-Web-Analyzing-Facebook/dp/1449388345) - Matthew A. Russell
 
-### Excellence
+### Excellence Award
 + [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](http://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912) - Jez Humble, David Farley
 
 ### Finalist
@@ -46,11 +54,11 @@
 ## 2010
 -----
 
-### Productivity
+### Productivity Award
 + [Hello World! Computer Programming for Kids and Other Beginners](#) - Warren D. Sande, Carter Sande 
 + [SDLC 3.0: Beyond a Tacit Understanding of Agile](#) - Mark Kennaley 
 
-### Excellence 
+### Excellence Award 
 + [Masterminds of Programming: Conversations with the Creators of Major Programming Languages](#) - Federico Biancuzzi. Shane Warden 
 
 ## 2009
