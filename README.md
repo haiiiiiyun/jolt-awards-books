@@ -1,3 +1,32 @@
+## 2013
+-----
+### Productivity
++ [Dependency Injection in .NET](#) - Mark Seemann 
++ [Taming Text](#) - Grant S. Ingersoll, Thomas S. Morton, Andrew L. Farris 
+
+### Finalist
++ [Team Geek](#) - Brian Fitzpatrick, Ben Collins-Sussman 
++ [NoSQL Distilled](#) - Pramod Saldage, Martin Fowler 
+
+### Jolt Award: 
++ [Lean UX by Jeff Gothelf](#) - Josh Seiden 
+
+## 2012
+-----
+
+### Productivity
++ [HTML5 Developer's Cookbook](#) - Chuck Hudson, Tom Leadbetter 
++ [iOS Programming: The Big Nerd Ranch Guide, Third Edition](#) - Joe Conway and Aaron Hillegass 
+
+### Jolt Award
++ [Specification by Example: How Successful Teams Deliver the Right Software](#) - Gojko Adzic 
+
+### Jolt Finalist
++ [Elemental Design Patterns](#) - Jason M. Smith 
++ [Running Lean, Iterate from Plan A to a Plan That Works, Second Edition](#) - Ash Maurya 
++ [How Google Tests Software](#) - James Whittaker, Jason Arbon, Jeff Carollo 
+
+
 ## 2011
 -----
 
@@ -12,6 +41,17 @@
 + [Domain-Specific Languages](http://www.amazon.com/Domain-Specific-Languages-Addison-Wesley-Signature-Fowler/dp/0321712943) - Martin Fowler, Rebecca Parsons
 + [The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, Part 1](http://www.amazon.com/Art-Computer-Programming-Combinatorial-Algorithms/dp/0201038048) - Donald E. Knuth
 + [The Joy of Clojure: Thinking the Clojure Way](http://www.amazon.com/Joy-Clojure-Thinking-Way/dp/1935182641) - Michael Fogus, Chris Houser
+
+
+## 2010
+-----
+
+### Productivity
++ [Hello World! Computer Programming for Kids and Other Beginners](#) - Warren D. Sande, Carter Sande 
++ [SDLC 3.0: Beyond a Tacit Understanding of Agile](#) - Mark Kennaley 
+
+### Excellence 
++ [Masterminds of Programming: Conversations with the Creators of Major Programming Languages](#) - Federico Biancuzzi. Shane Warden 
 
 ## 2009
 -----
