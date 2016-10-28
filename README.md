@@ -2,15 +2,15 @@
 -----
 
 ### Jolt Award: 
-+ [Python in Practice](#) - Mark Summerfield
-+ [Lean UX](#) - Jeff Gothelf, Josh Seiden 
++ [Python in Practice](https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636/) - Mark Summerfield
++ [Lean UX](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652/) - Jeff Gothelf, Josh Seiden 
 
 
 ## 2013
 -----
 
 ### Productivity Award
-+ [Dependency Injection in .NET](#) - Mark Seemann 
++ [Dependency Injection in .NET](https://www.amazon.com/Dependency-Injection-NET-Mark-Seemann/dp/1935182501/) - Mark Seemann 
 + [Taming Text](#) - Grant S. Ingersoll, Thomas S. Morton, Andrew L. Farris 
 
 
